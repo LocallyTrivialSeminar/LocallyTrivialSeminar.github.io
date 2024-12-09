@@ -1,2 +1,1 @@
-### Locally Trivial Seminar ###
-### The University of Toronto ###
+## The University of Toronto ##
