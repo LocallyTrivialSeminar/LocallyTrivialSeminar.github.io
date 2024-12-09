@@ -1,7 +1,9 @@
 ---
-title: The Locally Trivial Seminar
+title: "Info"
 layout: default
 ---
+
+### The Locally Trivial Seminar ###
 
 ## General Information ##
 
