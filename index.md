@@ -1,5 +1,5 @@
 ---
-title: null
+title: Info
 description: The Locally Trivial Seminar at the University of Toronto.
 name: ""
 layout: default
