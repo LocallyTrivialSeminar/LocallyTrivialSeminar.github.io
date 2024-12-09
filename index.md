@@ -1,5 +1,5 @@
 ---
-title: Info
+title: The Locally Trivial Seminar
 description: The Locally Trivial Seminar at the University of Toronto.
 ---
 
