@@ -1,6 +1,6 @@
 ---
 title: "Info"
-layout: default
+description: The Locally Trivial Seminar at the University of Toronto.
 ---
 
 ### The Locally Trivial Seminar ###
