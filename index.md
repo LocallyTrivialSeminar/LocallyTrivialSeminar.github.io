@@ -1,6 +1,8 @@
 ---
 title: "Info"
 description: The Locally Trivial Seminar at the University of Toronto.
+plugins: 
+ - jekyll-seo-tag
 ---
 
 ## General Information ##
