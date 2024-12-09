@@ -8,6 +8,8 @@ We hope that as you attend the seminar more you gain a deeper understanding of t
 
 Time & Location: TBD with talks lasting anywhere between 1 and 2 hours.
 
+To sign up to speak please rank your 3 favourite open slots in our scheude in an email to one of the organizers.
+
 The expectation is that if you are regularly attending the seminar, you will at some point be asked to speak. Your talk doesn't need to be polished or fully complete, just pick a topic that you find interesting. We especially encourage you to work through examples that you find have help illucidate a complicated topic!
 
 ## Organizers ##
