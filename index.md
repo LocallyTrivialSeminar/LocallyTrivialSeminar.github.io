@@ -13,6 +13,7 @@ The expectation is that if you are regularly attending the seminar, you will at 
 ## Organizers ##
 
 Jonathan Sejr Pedersen: jonathan.pedersen@mail.utoronto.ca
+
 Sacha Goldman: sacha.goldman@mail.utoronto.ca
 
 ## Mailing List ##
