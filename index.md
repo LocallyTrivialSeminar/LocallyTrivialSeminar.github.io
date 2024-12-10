@@ -7,7 +7,7 @@ description: The Locally Trivial Seminar at the University of Toronto.
 
 ## General Information ##
 
-The Locally Trivial Seminar is a student seminar at the University of Toronto. The goal of the seminar is provide a forum for informal collaborative talks given by seminar attendees on all things loosly related to algebraic topology. By loosly related we mean to include algebraic topology itself (of course), K-theory, derived algebraic geometry (or other related areas of algebraic geometry), differential topology and geometry. The exact direction of the seminar is to be given by the atendees.
+The Locally Trivial Seminar is a student seminar at the University of Toronto. The goal of the seminar is provide a forum for informal collaborative talks given by seminar attendees on all things loosly related to algebraic topology. By loosly related we mean to include algebraic topology itself (of course), K-theory, derived algebraic geometry (or other related areas of algebraic geometry), differential topology, and the relevant ideas in geometric topology. The exact direction of the seminar is to be determined by the atendees.
 
 We hope that as you attend the seminar more you gain a deeper understanding of the fields relating to algebraic topology and how they all fit togehter.
 
@@ -20,6 +20,8 @@ To sign up to speak please rank your 3 favourite open slots in our scheude in an
 The expectation is that if you are regularly attending the seminar, you will at some point speak. Your talk doesn't need to be polished or fully complete, just pick a topic that you find interesting. We especially encourage you to work through examples that you find have helped illucidate a complicated topic! Some examples of things on could talk about:
 - How does K-theory appear in differential topology
 - What is the $S_\bullet$ consturction and why is it useful
+- Who cares about higher concordances in $\infty$-cateogry theory
+- 
 
 ## Organizers ##
 
