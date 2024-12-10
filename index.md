@@ -21,7 +21,14 @@ The expectation is that if you are regularly attending the seminar, you will at 
 - How does K-theory appear in differential topology
 - What is the $S_\bullet$ consturction and why is it useful
 - Who cares about higher concordances in $\infty$-cateogry theory
-- 
+- First non-trivial spectral sequence computation
+- Quotients up to homotopy
+- What are the terms in the surgery exact sequence
+- What is a spivak normal fibration and why must they be reducable in manifolds
+- Why you should derive your algebraic geometry
+- What is a factorization algebra
+- Classifying spaces in topology and algebraic geometry
+- Modern simple homotopy theory
 
 ## Organizers ##
 
