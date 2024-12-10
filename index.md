@@ -19,7 +19,7 @@ To sign up to speak please rank your 3 favourite open slots in our scheude in an
 
 The expectation is that if you are regularly attending the seminar, you will at some point speak. Your talk doesn't need to be polished or fully complete, just pick a topic that you find interesting. We especially encourage you to work through examples that you find have helped illucidate a complicated topic! Some examples of things on could talk about:
 - How does K-theory appear in differential topology
-- What is the $S^\bullet$ consturction
+- What is the $S_\bullet$ consturction and why is it useful
 
 ## Organizers ##
 
