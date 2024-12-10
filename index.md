@@ -7,7 +7,7 @@ description: The Locally Trivial Seminar at the University of Toronto.
 
 ## General Information ##
 
-The Locally Trivial Seminar is a student seminar at the University of Toronto. The goal of the seminar is provide a forum for informal collaborative talks given by seminar attendees on all things loosely related to algebraic topology. By loosely related we mean to include algebraic topology itself (of course), K-theory, derived algebraic geometry (or other related areas of algebraic geometry), differential topology, and the relevant ideas in geometric topology. The exact direction of the seminar is to be determined by the atendees.
+The Locally Trivial Seminar is a student seminar at the University of Toronto. The goal of the seminar is provide a forum for informal collaborative talks given by seminar attendees on all things loosely related to algebraic topology. By loosely related we mean to include algebraic topology itself (of course), K-theory, derived algebraic geometry (or other related areas of algebraic geometry), differential topology, and the relevant ideas in geometric topology. The exact direction of the seminar is to be determined by the attendees.
 
 We hope that as you attend the seminar more you gain a deeper understanding of the fields relating to algebraic topology and how they all fit togehter.
 
