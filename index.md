@@ -30,6 +30,12 @@ The expectation is that if you are regularly attending the seminar, you will at 
 - Classifying spaces in topology and algebraic geometry
 - Modern simple homotopy theory
 
+
+$\int$
+`$\int$`
+{% raw %} $\int$ {% endraw %}
+
+
 ## Organizers ##
 
 Jonathan Sejr Pedersen: [jonathan.pedersen@mail.utoronto.ca](mailto:jonathan.pedersen@mail.utoronto.ca)
