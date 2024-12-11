@@ -1,4 +1,7 @@
-
+---
+title: The Locally Trivial Seminar
+description: The Locally Trivial Seminar at the University of Toronto.
+---
 
 # The Locally Trivial Seminar #
 
