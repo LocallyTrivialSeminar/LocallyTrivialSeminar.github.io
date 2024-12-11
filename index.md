@@ -30,7 +30,9 @@ The expectation is that if you are regularly attending the seminar, you will at 
 - Classifying spaces in topology and algebraic geometry
 - Modern simple homotopy theory
 
-
+\(int\)
+`\(int\)`
+{% raw %} \(\int\) {% endraw %}
 $\int$
 `$\int$`
 {% raw %} $\int$ {% endraw %}
