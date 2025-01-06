@@ -13,18 +13,18 @@ We hope that as you attend the seminar more you gain a deeper understanding of t
 
 ## Attending & Speaking ##
 
-Time & Location: TBD with talks lasting anywhere between 1 and 2 hours.
+Time & Location: TBD with talks lasting anywhere between 1 and 2 hours (with breaks).
 
-To sign up to speak please rank your 3 favourite open slots in our scheude in an email to one of the organizers. In this email please include your proposed topic.
+To sign up to speak please rank your 3 favourite open slots in our schedule in an email to one of the organizers. In this email please include your proposed topic.
 
-The expectation is that if you are regularly attending the seminar, you will at some point speak. Your talk doesn't need to be polished or fully complete, just pick a topic that you find interesting. We especially encourage you to work through examples that you find have helped illucidate a complicated topic! Some examples of things on could talk about:
-- How does K-theory appear in differential topology
+The expectation is that if you are regularly attending the seminar, you will at some point speak. Your talk doesn't need to be polished or fully complete, just pick a topic that you find interesting. We especially encourage you to work through examples that you find have helped elucidate a complicated topic! Some examples of things one could talk about:
+- Why does K-theory appear in differential topology
 - What is the $S_\bullet$ consturction and why is it useful
 - Who cares about higher concordances in $\infty$-cateogry theory
-- First non-trivial spectral sequence computation
-- Quotients up to homotopy
+- My first non-trivial spectral sequence computation
+- Quotients in higher algebra versus ordinary algebra
 - What are the terms in the surgery exact sequence
-- What is a spivak normal fibration and why must they be reducable in manifolds
+- What is the Spivak normal fibration and why is it reducible for manifolds
 - Why you should derive your algebraic geometry
 - What is a factorization algebra
 - Classifying spaces in topology and algebraic geometry
@@ -32,7 +32,7 @@ The expectation is that if you are regularly attending the seminar, you will at 
 
 ## Organizers ##
 
-Jonathan Sejr Pedersen: [jonathan.pedersen@mail.utoronto.ca](mailto:jonathan.pedersen@mail.utoronto.ca)
+Jonathan Sejr Pedersen: [jsejrp@math.toronto.edu](mailto:jsejrp@math.toronto.edu)
 
 Sacha Goldman: [sacha.goldman@mail.utoronto.ca](mailto:sacha.goldman@mail.utoronto.ca)
 
