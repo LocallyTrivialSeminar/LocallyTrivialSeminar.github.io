@@ -42,7 +42,8 @@ To sign up for weekly talk reminders, please email one of the organizers.
 
 ## Schedule ##
 
-| ** Date ** | ** Speaker ** | ** Topic ** |
+| Date | Speaker | Topic |
+| - | - | - |
 | Jan 21st 2025 | Jonathan Sejr Pedersen | The Universal Utility of Classifying Spaces |
 | Jan 28th 2025 |  |  | 
 | Feb 4th 2025 |  |  | 
