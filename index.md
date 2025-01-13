@@ -13,7 +13,7 @@ We hope that by attending the seminar you gain a deeper understanding of the fie
 
 ## Attending & Speaking ##
 
-Time & Location: TBD with talks lasting anywhere between 1 and 2 hours (with breaks).
+Time & Location: Tuesdays @ 11:00am in TBD.
 
 To sign up to speak please rank your 3 favourite open slots in our schedule in an email to one of the organizers. In this email please include your proposed topic.
 
@@ -43,5 +43,19 @@ To sign up for weekly talk reminders, please email one of the organizers.
 ## Schedule ##
 
 | Date | Speaker | Topic |
-| - | - | - |
-| | |
+| Jan 14th 2025 | Jonathan Sejr Pedersen | The Universal Utility of Classifying Spaces | 
+| Jan 21st 2025 |  |  | 
+| Jan 28th 2025 |  |  | 
+| Feb 4th 2025 |  |  | 
+| Feb 11th 2025 |  |  | 
+| Feb 18th 2025 | Reading Week | None | 
+| Feb 25th 2025 |  |  | 
+| Mar 4th 2025 |  |  | 
+| Mar 11th 2025 |  |  | 
+| Mar 18th 2025 |  |  | 
+| Mar 25th 2025 |  |  | 
+| Apr 1st 2025 |  |  | 
+| Apr 8th 2025 |  |  | 
+
+
+
