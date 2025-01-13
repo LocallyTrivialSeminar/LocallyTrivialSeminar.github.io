@@ -46,7 +46,7 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | - | - | - |
 | Jan 21st 2025 | Jonathan Sejr Pedersen | The Universal Utility of Classifying Spaces |
 | Jan 28th 2025 |  |  | 
-| Feb 4th 2025 |  |  | 
+| Feb 4th 2025 | Ismael Sierra | Spectral Sequences | 
 | Feb 11th 2025 |  |  | 
 | Feb 18th 2025 | Reading Week | None | 
 | Feb 25th 2025 |  |  | 
