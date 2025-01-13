@@ -13,7 +13,7 @@ We hope that by attending the seminar you gain a deeper understanding of the fie
 
 ## Attending & Speaking ##
 
-Time & Location: Tuesdays @ 11:00am in TBD.
+Time & Location: Tuesdays @ 11:00am in HU 1018.
 
 To sign up to speak please rank your 3 favourite open slots in our schedule in an email to one of the organizers. In this email please include your proposed topic.
 
