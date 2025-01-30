@@ -51,7 +51,7 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Feb 18th 2025 | Reading Week | None | 
 | Feb 25th 2025 | Matt Scalamandre | Bad Simplex Arguments | 
 | Mar 4th 2025 | Elden Elmanto | Arithmetic and Homotopy Theory  | 
-| Mar 11th 2025 |  |  | 
+| Mar 11th 2025 | Mahdi Rafiei | $S_\bullet$-construction | 
 | Mar 18th 2025 |  |  | 
 | Mar 25th 2025 |  |  | 
 | Apr 1st 2025 |  |  | 
