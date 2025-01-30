@@ -49,7 +49,7 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Feb 4th 2025 | Vicente Marin-Marquez | Some applications of the Fundamental Pro-group | 
 | Feb 11th 2025 | Ismael Sierra | Spectral Sequences |
 | Feb 18th 2025 | Reading Week | None | 
-| Feb 25th 2025 |  |  | 
+| Feb 25th 2025 | Matt Scalamandre | Bad Simplex Arguments | 
 | Mar 4th 2025 |  |  | 
 | Mar 11th 2025 |  |  | 
 | Mar 18th 2025 |  |  | 
