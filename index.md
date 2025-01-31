@@ -17,7 +17,9 @@ Time & Location: Tuesdays 11:00-12:00 in HU 1018.
 
 To sign up to speak please rank your 3 favourite open slots in our schedule in an email to one of the organizers. In this email please include your proposed topic.
 
-The expectation is that if you are regularly attending the seminar, you will at some point speak. Your talk doesn't need to be polished or fully complete, just pick a topic that you find interesting. We especially encourage you to work through examples that you find have helped elucidate a complicated topic! Some examples of things one could talk about:
+The expectation is that if you are regularly attending the seminar, you will at some point speak. Your talk doesn't need to be polished or fully complete, just pick a topic that you find interesting. We especially encourage you to work through examples that you find have helped elucidate a complicated topic! We keep a list of past talks to help you get inspired.
+
+<!--
 - Why does K-theory appear in differential topology
 - What is the $S_\bullet$ consturction and why is it useful
 - Who cares about higher concordances in $\infty$-cateogry theory
@@ -29,6 +31,7 @@ The expectation is that if you are regularly attending the seminar, you will at 
 - What is a factorization algebra
 - Classifying spaces in topology and algebraic geometry
 - Modern simple homotopy theory
+-->
 
 ## Organizers ##
 
