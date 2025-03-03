@@ -48,7 +48,7 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Date | Speaker | Topic |
 | - | - | - |
 | Jan 21st 2025 | Jonathan Sejr Pedersen | The Universal Utility of Classifying Spaces |
-| Jan 28th 2025 | Charlie Wu | Special Representations of Surface Groups ([https://locallytrivialseminar.github.io/Notes/28-01-2025-Notes.pdf](Notes)) |
+| Jan 28th 2025 | Charlie Wu | Special Representations of Surface Groups ([Notes](https://locallytrivialseminar.github.io/Notes/28-01-2025-Notes.pdf)) |
 | Feb 4th 2025 | Vicente Marin-Marquez | Some applications of the Fundamental Pro-group |
 | Feb 11th 2025 | Ismael Sierra | Spectral Sequences in Practice |
 | Feb 18th 2025 | Reading Week | None |
