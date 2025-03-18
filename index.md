@@ -48,14 +48,14 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Date | Speaker | Topic |
 | - | - | - |
 | Jan 21st 2025 | Jonathan Sejr Pedersen | The Universal Utility of Classifying Spaces |
-| Jan 28th 2025 | Charlie Wu | Special Representations of Surface Groups |
-| Feb 4th 2025 | Vicente Marin-Marquez | Some applications of the Fundamental Pro-group |
+| Jan 28th 2025 | Charlie Wu | Special Representations of Surface Groups ([Notes](https://locallytrivialseminar.github.io/Notes/28-01-2025-Notes.pdf)) |
+| Feb 4th 2025 | Vicente Marin-Marquez | Some Applications of the Fundamental Pro-group |
 | Feb 11th 2025 | Ismael Sierra | Spectral Sequences in Practice |
 | Feb 18th 2025 | Reading Week | None |
 | Feb 25th 2025 | Matt Scalamandre | Bad Simplex Arguments ([Notes](https://locallytrivialseminar.github.io/Notes/25-02-2025-Notes.pdf)) |
 | Mar 4th 2025 | Elden Elmanto | Arithmetic and Homotopy Theory  |
 | Mar 11th 2025 | Mahdi Rafiei | $S_\bullet$-construction |
-| Mar 18th 2025 | Sacha Goldman | Local Systems in Topology |
+| Mar 18th 2025 | Sacha Goldman | Local Systems and Simple Homotopy Theory |
 | Mar 25th 2025 |  |  |
 | Apr 1st 2025 |  |  |
-| Apr 8th 2025 |  |  |
+| Apr 8th 2025 | Alice Rolf | Triality of $\mathfrak{so}(8)$ in Automorphisms of Operads |
