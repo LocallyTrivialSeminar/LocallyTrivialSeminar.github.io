@@ -58,4 +58,4 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Mar 18th 2025 | Sacha Goldman | Local Systems and Simple Homotopy Theory ([Notes](https://locallytrivialseminar.github.io/Notes/18-03-2025-Notes.pdf)) |
 | Mar 25th 2025 | Jonathan Sejr Pedersen | Are Spectra Cohomology Theories? |
 | Apr 1st 2025 | Ismael Sierra | Can a Finite p-group Act Without Fixed Points? |
-# (| Apr 8th 2025 | Alice Rolf | Triality of $\mathfrak{so}(8)$ in Automorphisms of Operads |)
+[//]: # (| Apr 8th 2025 | Alice Rolf | Triality of $\mathfrak{so}(8)$ in Automorphisms of Operads |)
