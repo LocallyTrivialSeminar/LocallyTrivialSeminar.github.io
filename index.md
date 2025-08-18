@@ -13,7 +13,7 @@ We hope that by attending the seminar you gain a deeper understanding of the fie
 
 ## Attending & Speaking ##
 
-Time & Location: Tuesdays 11:00-12:00 in HU 1018.
+Time & Location: TBD.
 
 To sign up to speak please rank your 3 favourite open slots in our schedule in an email to one of the organizers. In this email please include your proposed topic.
 
@@ -43,18 +43,25 @@ Sacha Goldman: [sacha.goldman@mail.utoronto.ca](mailto:sacha.goldman@mail.utoron
 
 To sign up for weekly talk reminders, please email one of the organizers.
 
-## Schedule ##
+## Current Schedule ##
 
 | Date | Speaker | Topic |
 | - | - | - |
-| Jan 21st 2025 | Jonathan Sejr Pedersen | The Universal Utility of Classifying Spaces |
-| Jan 28th 2025 | Charlie Wu | Special Representations of Surface Groups ([Notes](https://locallytrivialseminar.github.io/Notes/28-01-2025-Notes.pdf)) |
-| Feb 4th 2025 | Vicente Marin-Marquez | Some Applications of the Fundamental Pro-group |
-| Feb 11th 2025 | Ismael Sierra | Spectral Sequences in Practice |
-| Feb 18th 2025 | Reading Week | None |
-| Feb 25th 2025 | Matt Scalamandre | Bad Simplex Arguments ([Notes](https://locallytrivialseminar.github.io/Notes/25-02-2025-Notes.pdf)) |
-| Mar 4th 2025 | Elden Elmanto | Arithmetic and Homotopy Theory  |
-| Mar 11th 2025 | Mahdi Rafiei | $S_\bullet$-construction |
-| Mar 18th 2025 | Sacha Goldman | Local Systems and Simple Homotopy Theory ([Notes](https://locallytrivialseminar.github.io/Notes/18-03-2025-Notes.pdf)) |
-| Mar 25th 2025 | Jonathan Sejr Pedersen | Are Spectra Cohomology Theories? |
+
+## Historic Schedule ##
+
+### Winter 2025 ###
+
+| Date | Speaker | Topic |
+| - | - | - |
 | Apr 1st 2025 | Ismael Sierra | Can a Finite p-group Act Without Fixed Points? |
+| Mar 25th 2025 | Jonathan Sejr Pedersen | Are Spectra Cohomology Theories? |
+| Mar 18th 2025 | Sacha Goldman | Local Systems and Simple Homotopy Theory ([Notes](https://locallytrivialseminar.github.io/Notes/18-03-2025-Notes.pdf)) |
+| Mar 11th 2025 | Mahdi Rafiei | $S_\bullet$-construction |
+| Mar 4th 2025 | Elden Elmanto | Arithmetic and Homotopy Theory  |
+| Feb 25th 2025 | Matt Scalamandre | Bad Simplex Arguments ([Notes](https://locallytrivialseminar.github.io/Notes/25-02-2025-Notes.pdf)) |
+| Feb 18th 2025 | Reading Week | None |
+| Feb 11th 2025 | Ismael Sierra | Spectral Sequences in Practice |
+| Feb 4th 2025 | Vicente Marin-Marquez | Some Applications of the Fundamental Pro-group |
+| Jan 28th 2025 | Charlie Wu | Special Representations of Surface Groups ([Notes](https://locallytrivialseminar.github.io/Notes/28-01-2025-Notes.pdf)) |
+| Jan 21st 2025 | Jonathan Sejr Pedersen | The Universal Utility of Classifying Spaces |
