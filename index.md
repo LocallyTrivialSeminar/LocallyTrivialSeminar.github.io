@@ -47,17 +47,17 @@ To sign up for weekly talk reminders, please email one of the organizers.
 
 | Date | Speaker | Topic |
 | - | - | - |
-| Sep 19th 2025 | | |
-| Sep 26th 2025 | | |
-| Oct 3rd 2025 | | |
-| Oct 10th 2025 | | |
-| Oct 17th 2025 | | |
-| Oct 24th 2025 | | |
-| Oct 31st 2025 | Reading Week | None |
-| Nov 7th 2025 | | |
-| Nov 14th 2025 | | |
-| Nov 21st 2025 | | |
 | Nov 28th 2025 | | |
+| Nov 21st 2025 | | |
+| Nov 14th 2025 | | |
+| Nov 7th 2025 | | |
+| Oct 31st 2025 | Reading Week | None |
+| Oct 24th 2025 | | |
+| Oct 17th 2025 | | |
+| Oct 10th 2025 | | |
+| Oct 3rd 2025 | | |
+| Sep 26th 2025 | | |
+| Sep 19th 2025 | | |
 
 ## Historic Schedule ##
 
@@ -76,4 +76,5 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Feb 4th 2025 | Vicente Marin-Marquez | Some Applications of the Fundamental Pro-group |
 | Jan 28th 2025 | Charlie Wu | Special Representations of Surface Groups ([Notes](https://locallytrivialseminar.github.io/Notes/28-01-2025-Notes.pdf)) |
 | Jan 21st 2025 | Jonathan Sejr Pedersen | The Universal Utility of Classifying Spaces |
+
 
