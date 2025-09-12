@@ -47,7 +47,7 @@ To sign up for weekly talk reminders, please email one of the organizers.
 
 | Date | Speaker | Topic |
 | - | - | - |
-| Sep 19th 2025 | Vicente Marin-Marquez | |
+| Sep 19th 2025 | Vicente Marin-Marquez | An Application of the Cobordism Hypothesis |
 | Sep 26th 2025 | Alice Rolf | |
 | Oct 3rd 2025 | Ismael Sierra | |
 | Oct 10th 2025 | | |
@@ -77,6 +77,7 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Feb 4th 2025 | Vicente Marin-Marquez | Some Applications of the Fundamental Pro-group |
 | Jan 28th 2025 | Charlie Wu | Special Representations of Surface Groups ([Notes](https://locallytrivialseminar.github.io/Notes/28-01-2025-Notes.pdf)) |
 | Jan 21st 2025 | Jonathan Sejr Pedersen | The Universal Utility of Classifying Spaces |
+
 
 
 
