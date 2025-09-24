@@ -51,7 +51,7 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Sep 26th 2025 | Alice Rolf | Triality of $\mathfrak{so}(8)$ |
 | Oct 3rd 2025 | Ismael Sierra | |
 | Oct 10th 2025 | Mahdi Rafiei | $TC(\mathbb F _p)$ |
-| Oct 17th 2025 | Herng Yi | Mod $p$ Differential Forms and Steenrod Operations |
+| Oct 17th 2025 | Herng Yi Cheng | Mod $p$ Differential Forms and Steenrod Operations |
 | Oct 24th 2025 | Aidan Lindberg | Hochschild Homology of Derived Stacks |
 | Oct 31st 2025 | Reading Week | None |
 | Nov 7th 2025 | Jonathan Sejr Pedersen | Signatures of Manifolds I |
@@ -77,6 +77,7 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Feb 4th 2025 | Vicente Marin-Marquez | Some Applications of the Fundamental Pro-group |
 | Jan 28th 2025 | Charlie Wu | Special Representations of Surface Groups ([Notes](https://locallytrivialseminar.github.io/Notes/28-01-2025-Notes.pdf)) |
 | Jan 21st 2025 | Jonathan Sejr Pedersen | The Universal Utility of Classifying Spaces |
+
 
 
 
