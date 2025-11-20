@@ -56,7 +56,7 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Oct 31st 2025 | Reading Week | None |
 | Nov 7th 2025 | Jonathan Sejr Pedersen | Signatures of Manifolds I |
 | Nov 14th 2025 | Sacha Goldman | Signatures of Manifolds II |
-| Nov 21st 2025 | | |
+| Nov 21st 2025 | Brian Shin | Homotopies in Algebraic Geometry |
 | Nov 28th 2025 | | |
 
 
@@ -77,6 +77,7 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Feb 4th 2025 | Vicente Marin-Marquez | Some Applications of the Fundamental Pro-group |
 | Jan 28th 2025 | Charlie Wu | Special Representations of Surface Groups ([Notes](https://locallytrivialseminar.github.io/Notes/28-01-2025-Notes.pdf)) |
 | Jan 21st 2025 | Jonathan Sejr Pedersen | The Universal Utility of Classifying Spaces |
+
 
 
 
