@@ -13,7 +13,7 @@ We hope that by attending the seminar you gain a deeper understanding of the fie
 
 ## Attending & Speaking ##
 
-Time & Location: Fridays 10:00-11:00 BA 6180.
+Time & Location: TBA.
 
 To sign up to speak please rank your 3 favourite open slots in our schedule in an email to one of the organizers. In this email please include your proposed topic.
 
@@ -47,21 +47,28 @@ To sign up for weekly talk reminders, please email one of the organizers.
 
 | Date | Speaker | Topic |
 | - | - | - |
-| Sep 19th 2025 | Vicente Marin-Marquez | An Application of the Cobordism Hypothesis |
-| Sep 26th 2025 | Alice Rolf | Triality of $\mathrm{SO}(8)$ |
-| Oct 3rd 2025 | Ismael Sierra | The Goncharov Program via $E_\infty$-Homology of General Linear Groups |
-| Oct 10th 2025 | Mahdi Rafiei | $\mathrm{TC}(\mathbb F _p)$ |
-| Oct 17th 2025 | Herng Yi Cheng | Mod $p$ Differential Forms and Steenrod Operations |
-| Oct 24th 2025 | Aidan Lindberg | Hochschild Homology of Derived Stacks |
-| Oct 31st 2025 | Reading Week | None |
-| Nov 7th 2025 | Jonathan Sejr Pedersen | Signatures of Manifolds I |
-| Nov 14th 2025 | Sacha Goldman | Signatures of Manifolds II |
-| Nov 21st 2025 | Brian Shin | Homotopies in Algebraic Geometry |
-| Nov 28th 2025 | Grisha Taroyan | ~~How to Find God~~ The Continuum Hypothesis |
+| | | |
 
 ## Historical Schedule ##
 
-### Winter 2025 ###
+### Fall 2025 ###
+
+| Date | Speaker | Topic |
+| - | - | - |
+| Nov 28th 2025 | Grisha Taroyan | ~~How to Find God~~ The Continuum Hypothesis |
+| Nov 21st 2025 | Brian Shin | Homotopies in Algebraic Geometry |
+| Nov 14th 2025 | Sacha Goldman | Signatures of Manifolds II |
+| Nov 7th 2025 | Jonathan Sejr Pedersen | Signatures of Manifolds I |
+| Oct 31st 2025 | Reading Week | None |
+| Oct 24th 2025 | Aidan Lindberg | Hochschild Homology of Derived Stacks |
+| Oct 17th 2025 | Herng Yi Cheng | Mod $p$ Differential Forms and Steenrod Operations |
+| Oct 10th 2025 | Mahdi Rafiei | $\mathrm{TC}(\mathbb F _p)$ |
+| Oct 3rd 2025 | Ismael Sierra | The Goncharov Program via $E_\infty$-Homology of General Linear Groups |
+| Sep 26th 2025 | Alice Rolf | Triality of $\mathrm{SO}(8)$ |
+| Sep 19th 2025 | Vicente Marin-Marquez | An Application of the Cobordism Hypothesis |
+
+
+### Spring 2025 ###
 
 | Date | Speaker | Topic |
 | - | - | - |
@@ -76,5 +83,6 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Feb 4th 2025 | Vicente Marin-Marquez | Some Applications of the Fundamental Pro-group |
 | Jan 28th 2025 | Charlie Wu | Special Representations of Surface Groups ([Notes](https://locallytrivialseminar.github.io/Notes/28-01-2025-Notes.pdf)) |
 | Jan 21st 2025 | Jonathan Sejr Pedersen | The Universal Utility of Classifying Spaces |
+
 
 
