@@ -59,7 +59,7 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Mar 17th 2025 | | |
 | Mar 24th 2025 | | |
 | Mar 31st 2025 | | |
-| Apr 7th 2025 | | |
+| Apr 7th 2025 | Christian Kremer | |
 
 ## Historical Schedule ##
 
@@ -95,6 +95,7 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Feb 4th 2025 | Vicente Marin-Marquez | Some Applications of the Fundamental Pro-group |
 | Jan 28th 2025 | Charlie Wu | Special Representations of Surface Groups ([Notes](https://locallytrivialseminar.github.io/Notes/28-01-2025-Notes.pdf)) |
 | Jan 21st 2025 | Jonathan Sejr Pedersen | The Universal Utility of Classifying Spaces |
+
 
 
 
