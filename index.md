@@ -55,9 +55,9 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Feb 17th 2025 | Reading Week | None |
 | Feb 24th 2025 | Elden Elmanto | How to Repair Air Conditioning I |
 | Mar 3rd 2025 | Elden Elmanto | How to Repair Air Conditioning II |
-| Mar 10th 2025 | Giacomo Bertizzolo | |
+| Mar 10th 2025 | Giacomo Bertizzolo | Acyclic Maps I |
 | Mar 17th 2025 | Conference | Canceled |
-| Mar 24th 2025 | Giacomo Bertizzolo | |
+| Mar 24th 2025 | Giacomo Bertizzolo | Acyclic Maps II |
 | Mar 31st 2025 | James Munday | |
 | Apr 7th 2025 | Christian Kremer | |
 
@@ -95,6 +95,7 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Feb 4th 2025 | Vicente Marin-Marquez | Some Applications of the Fundamental Pro-group |
 | Jan 28th 2025 | Charlie Wu | Special Representations of Surface Groups ([Notes](https://locallytrivialseminar.github.io/Notes/28-01-2025-Notes.pdf)) |
 | Jan 21st 2025 | Jonathan Sejr Pedersen | The Universal Utility of Classifying Spaces |
+
 
 
 
