@@ -58,7 +58,7 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Mar 10th 2025 | Giacomo Bertizzolo | Acyclic Maps I |
 | Mar 17th 2025 | Conference | Canceled |
 | Mar 24th 2025 | Giacomo Bertizzolo | Acyclic Maps II |
-| Mar 31st 2025 | James Munday | |
+| Mar 31st 2025 | James Munday | Non-Abelian Poincaré Duality |
 | Apr 7th 2025 | Christian Kremer | |
 
 ## Historical Schedule ##
