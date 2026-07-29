@@ -47,21 +47,26 @@ To sign up for weekly talk reminders, please email one of the organizers.
 
 | Date | Speaker | Topic |
 | - | - | - |
-| Jan 13th 2025 | Gabriel Beiner | Spectral Invariants from Filtered Floer Homology |
-| Jan 20th 2025 | Waleed Qaisar | Categorifying Isomonodromic Deformations via Lie Groupoids |
-| Jan 27th 2025 | Snow Day | Canceled |
-| Feb 3rd 2025 | Maarten Mol | Real Torus Bundles in Complex Geometry |
-| Feb 10th 2025 | Vicente Marin-Marquez | Some Computations in String Topology |
-| Feb 17th 2025 | Reading Week | None |
-| Feb 24th 2025 | Elden Elmanto | How to Repair Air Conditioning I |
-| Mar 3rd 2025 | Elden Elmanto | How to Repair Air Conditioning II |
-| Mar 10th 2025 | Giacomo Bertizzolo | Acyclic Maps I |
-| Mar 17th 2025 | Conference | Canceled |
-| Mar 24th 2025 | Giacomo Bertizzolo | Acyclic Maps II |
-| Mar 31st 2025 | James Munday | Non-Abelian Poincaré Duality |
-| Apr 7th 2025 | Christian Kremer | Signatures of Manifolds III |
 
 ## Historical Schedule ##
+
+### Spring 2026 ###
+
+| Date | Speaker | Topic |
+| - | - | - |
+| Apr 7th 2025 | Christian Kremer | Signatures of Manifolds III |
+| Mar 31st 2025 | James Munday | Non-Abelian Poincaré Duality |
+| Mar 24th 2025 | Giacomo Bertizzolo | Acyclic Maps II |
+| Mar 17th 2025 | Conference | Canceled |
+| Mar 10th 2025 | Giacomo Bertizzolo | Acyclic Maps I |
+| Mar 3rd 2025 | Elden Elmanto | How to Repair Air Conditioning II |
+| Feb 24th 2025 | Elden Elmanto | How to Repair Air Conditioning I |
+| Feb 17th 2025 | Reading Week | None |
+| Feb 10th 2025 | Vicente Marin-Marquez | Some Computations in String Topology |
+| Feb 3rd 2025 | Maarten Mol | Real Torus Bundles in Complex Geometry |
+| Jan 27th 2025 | Snow Day | Canceled |
+| Jan 20th 2025 | Waleed Qaisar | Categorifying Isomonodromic Deformations via Lie Groupoids |
+| Jan 13th 2025 | Gabriel Beiner | Spectral Invariants from Filtered Floer Homology |
 
 ### Fall 2025 ###
 
@@ -78,7 +83,6 @@ To sign up for weekly talk reminders, please email one of the organizers.
 | Oct 3rd 2025 | Ismael Sierra | The Goncharov Program via $E_\infty$-Homology of General Linear Groups |
 | Sep 26th 2025 | Alice Rolf | Triality of $\mathrm{SO}(8)$ |
 | Sep 19th 2025 | Vicente Marin-Marquez | An Application of the Cobordism Hypothesis |
-
 
 ### Spring 2025 ###
 
