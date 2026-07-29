@@ -45,9 +45,6 @@ To sign up for weekly talk reminders, please email one of the organizers.
 
 ## Current Schedule ##
 
-| Date | Speaker | Topic |
-| - | - | - |
-
 ## Historical Schedule ##
 
 ### Spring 2026 ###
